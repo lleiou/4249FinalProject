@@ -81,6 +81,11 @@ p a:hover {
 #header ul li a:hover, #header ul li.selected a {
 	color: #0ba39c;
 }
+
+#body div > p { 
+    text-align: left;
+}
+
 #body {
 	margin: 0;
 	padding: 0 0 30px;
