@@ -391,26 +391,26 @@ p a:hover {
 	width: 44px;
 }
 #footer div ul li #github {
-	background-position: 0 0;
+	background: url(../images/icons/icon-github-hover.png)
 }
 #footer div ul li #github:hover {
-	background-position: -44px 0;
+	background: url(../images/icons/icon-github.png)
 }
 #footer div ul li #twitter {
-	background-position: 0 -44px;
+	background: url(../images/icons/icon-twitter-hover.png)
 }
 #footer div ul li #twitter:hover {
-	background-position: -44px -44px;
+	background: url(../images/icons/icon-twitter.png)
 }
 #footer div ul li #facebook {
-	background-position: 0 -88px;
+	background: url(../images/icons/icon-facebook-hover.png)
 }
 #footer div ul li #facebook:hover {
-	background-position: -44px -88px;
+	background: url(../images/icons/icon-facebook.png)
 }
 #footer div ul li #like {
-	background-position: 0 -132px;
+	background: url(../images/icons/icon-like-hover.png)
 }
 #footer div ul li #like:hover {
-	background-position: -44px -132px;
+	background: url(../images/icons/icon-like.png)
 }
