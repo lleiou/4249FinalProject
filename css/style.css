@@ -390,27 +390,27 @@ p a:hover {
 	text-indent: -99999px;
 	width: 44px;
 }
-#footer div ul li #twitter {
+#footer div ul li #github {
 	background-position: 0 0;
 }
-#footer div ul li #twitter:hover {
+#footer div ul li #github:hover {
 	background-position: -44px 0;
 }
-#footer div ul li #facebook {
+#footer div ul li #twitter {
 	background-position: 0 -44px;
 }
-#footer div ul li #facebook:hover {
+#footer div ul li #twitter:hover {
 	background-position: -44px -44px;
 }
-#footer div ul li #googleplus {
+#footer div ul li #facebook {
 	background-position: 0 -88px;
 }
-#footer div ul li #googleplus:hover {
+#footer div ul li #facebook:hover {
 	background-position: -44px -88px;
 }
-#footer div ul li #pinterest {
+#footer div ul li #like {
 	background-position: 0 -132px;
 }
-#footer div ul li #pinterest:hover {
+#footer div ul li #like:hover {
 	background-position: -44px -132px;
 }
